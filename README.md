@@ -16,7 +16,7 @@ A deep transfer learning pipeline on **MobileNetV2** engineered to classify face
 ---
 
 ## 🖥️ Live Interactive Presentation
-👉 **[Canlı Sunumu Aç (zenclaut.github.io/face-mask-ai)](https://zenclaut.github.io/face-mask-ai/)**
+👉 **zenclaut.github.io/face-mask-ai)](https://zenclaut.github.io/face-mask-ai/**
 
 The interactive slide deck features:
 - Problem formulation & 4-class taxonomy
