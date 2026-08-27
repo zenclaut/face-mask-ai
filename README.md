@@ -32,7 +32,7 @@ The interactive slide deck features:
 
 ## 📁 Repository Structure
 ```
-├── face-mask-ai-system.html      # Interactive slide deck
+├── index.html                    # Interactive slide deck (GitHub Pages root)
 ├── assets/                       # Academic charts, training curves, confusion matrices
 ├── 01_split1_training.ipynb      # Split 1 Baseline model training
 ├── 02_split2_training.ipynb      # Split 2 Balanced & augmented training
