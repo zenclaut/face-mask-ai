@@ -1,5 +1,7 @@
 # 🎭 Face Mask AI - Production-Grade Classification & Evaluation System
 
+[![Live Presentation](https://img.shields.io/badge/Live_Presentation-Interactive_Slide_Deck-06b6d4?style=for-the-badge&logo=githubpages&logoColor=white)](https://zenclaut.github.io/face-mask-ai/)
+
 A deep transfer learning pipeline on **MobileNetV2** engineered to classify face mask compliance into 4 classes (`with_mask`, `without_mask`, `mask_worn_incorrectly`, `not_related`), audit training convergence curves, and achieve **99.55% multi-class test accuracy** with edge inference latency.
 
 ---
@@ -13,8 +15,10 @@ A deep transfer learning pipeline on **MobileNetV2** engineered to classify face
 
 ---
 
-## 🖥️ Interactive Presentation
-Open [`face-mask-ai-system.html`](./face-mask-ai-system.html) in any modern web browser for an interactive slide deck showcasing:
+## 🖥️ Live Interactive Presentation
+👉 **[Canlı Sunumu Aç (zenclaut.github.io/face-mask-ai)](https://zenclaut.github.io/face-mask-ai/)**
+
+The interactive slide deck features:
 - Problem formulation & 4-class taxonomy
 - Parallel data ETL pipeline & 3-tier MD5 deduplication
 - 3-split validation protocol
